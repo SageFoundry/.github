@@ -2,6 +2,9 @@
 
 人类之书（The Book of Humanity）是一个面向新手的 AI 成长系统，通过“游戏化机制 + Skill（技能）体系”，帮助用户从零开始掌握 AI 工具，并在实践中不断提升能力。
 
+![The Book of Humanity](./HumanityBook.png)
+
+<img src="./HumanityBook.png" alt="The Book of Humanity" width="500" />
 ## ✨ 项目背景
 
 当新手第一次接触 AI 工具（如 codex、claude、opencode、mcp 等）时，常见问题是：
